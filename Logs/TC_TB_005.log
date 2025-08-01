@@ -1,0 +1,33 @@
+2025-08-01 11:19:22,703 - INFO - Starting Browser Session...
+2025-08-01 11:19:30,578 - INFO - Browser Launch Successfully.
+2025-08-01 11:19:32,096 - INFO - URL Open Successfully.
+2025-08-01 11:19:32,363 - INFO - Ticket Number Enter successfully.
+2025-08-01 11:19:32,555 - INFO - Ticket Class VIP - $2000 selected.
+2025-08-01 11:19:32,645 - INFO - Registered User - 'No' selected.
+2025-08-01 11:19:32,668 - INFO - Valid Promo Code Enter successfully.
+2025-08-01 11:19:32,758 - INFO - Click on Book Now button successfully.
+2025-08-01 11:19:32,779 - INFO - Test Passed. Expected Final price match with Actual Final Price.
+2025-08-01 11:19:32,779 - INFO - Script Complete.
+2025-08-01 11:19:32,780 - INFO - End Browser Session...
+2025-08-01 11:33:21,272 - INFO - Starting Browser Session...
+2025-08-01 11:33:29,456 - INFO - Browser Launch Successfully.
+2025-08-01 11:33:30,358 - INFO - URL Open Successfully.
+2025-08-01 11:33:30,609 - INFO - Ticket Number Enter successfully.
+2025-08-01 11:33:30,713 - INFO - Ticket Class VIP - $2000 selected.
+2025-08-01 11:33:30,732 - INFO - Registered User - 'Yes' selected.
+2025-08-01 11:33:30,754 - INFO - Valid Promo Code Enter successfully.
+2025-08-01 11:33:30,835 - INFO - Click on Book Now button successfully.
+2025-08-01 11:33:30,854 - INFO - Test Failed. Expected Dollar Sign is not shown in the Display.
+2025-08-01 11:33:30,854 - INFO - Script Complete.
+2025-08-01 11:33:30,854 - INFO - End Browser Session...
+2025-08-01 11:35:07,251 - INFO - Starting Browser Session...
+2025-08-01 11:35:15,499 - INFO - Browser Launch Successfully.
+2025-08-01 11:35:17,121 - INFO - URL Open Successfully.
+2025-08-01 11:35:17,408 - INFO - Ticket Number Enter successfully.
+2025-08-01 11:35:17,510 - INFO - Ticket Class Silver - $750 selected.
+2025-08-01 11:35:17,532 - INFO - Registered User - 'Yes' selected.
+2025-08-01 11:35:17,560 - INFO - Valid Promo Code Enter successfully.
+2025-08-01 11:35:17,649 - INFO - Click on Book Now button successfully.
+2025-08-01 11:35:17,664 - INFO - Test Failed. Expected Dollar Sign is not shown in the Display.
+2025-08-01 11:35:17,664 - INFO - Script Complete.
+2025-08-01 11:35:17,665 - INFO - End Browser Session...

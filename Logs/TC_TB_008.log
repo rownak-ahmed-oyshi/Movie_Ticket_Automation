@@ -1,0 +1,33 @@
+2025-08-01 11:56:14,620 - INFO - Starting Browser Session...
+2025-08-01 11:56:23,108 - INFO - Browser Launch Successfully.
+2025-08-01 11:56:23,673 - INFO - URL Open Successfully.
+2025-08-01 11:56:23,925 - INFO - Ticket Number Enter successfully.
+2025-08-01 11:56:24,043 - INFO - Ticket Class Platinum - $1500 selected.
+2025-08-01 11:56:24,063 - INFO - Registered User - 'Yes' selected.
+2025-08-01 11:56:24,086 - INFO - Valid Promo Code Enter successfully.
+2025-08-01 11:56:24,169 - INFO - Click on Book Now button successfully.
+2025-08-01 11:56:24,191 - INFO - Test Passed. Expected Error Message Display Properly.
+2025-08-01 11:56:24,192 - INFO - Script Complete.
+2025-08-01 11:56:24,192 - INFO - End Browser Session...
+2025-08-01 12:08:34,816 - INFO - Starting Browser Session...
+2025-08-01 12:08:42,932 - INFO - Browser Launch Successfully.
+2025-08-01 12:08:43,599 - INFO - URL Open Successfully.
+2025-08-01 12:08:43,950 - INFO - Ticket Number Enter successfully.
+2025-08-01 12:08:44,242 - INFO - Ticket Class Gold - $1000 selected.
+2025-08-01 12:08:44,276 - INFO - Registered User - 'Yes' selected.
+2025-08-01 12:08:44,322 - INFO - Valid Promo Code Enter successfully.
+2025-08-01 12:08:44,408 - INFO - Click on Book Now button successfully.
+2025-08-01 12:08:44,426 - INFO - Test Passed. Expected Error Message Display Properly.
+2025-08-01 12:08:44,427 - INFO - Script Complete.
+2025-08-01 12:08:44,427 - INFO - End Browser Session...
+2025-08-01 12:11:55,335 - INFO - Starting Browser Session...
+2025-08-01 12:12:03,464 - INFO - Browser Launch Successfully.
+2025-08-01 12:12:03,893 - INFO - URL Open Successfully.
+2025-08-01 12:12:04,063 - INFO - Ticket Number Enter successfully.
+2025-08-01 12:12:04,695 - INFO - Ticket Class Platinum - $1500 selected.
+2025-08-01 12:12:04,739 - INFO - Registered User - 'Yes' selected.
+2025-08-01 12:12:04,777 - INFO - Valid Promo Code Enter successfully.
+2025-08-01 12:12:04,880 - INFO - Click on Book Now button successfully.
+2025-08-01 12:12:04,902 - INFO - Test Passed. Expected Error Message Display Properly.
+2025-08-01 12:12:04,902 - INFO - Script Complete.
+2025-08-01 12:12:04,902 - INFO - End Browser Session...

@@ -1,0 +1,15 @@
+2025-08-01 15:55:05,270 - INFO - Starting Browser Session...
+2025-08-01 15:55:15,337 - INFO - Browser Launch Successfully.
+2025-08-01 15:55:16,623 - INFO - URL Open Successfully.
+2025-08-01 15:55:17,027 - INFO - Ticket Number Enter successfully.
+2025-08-01 15:55:17,146 - INFO - Ticket Class Silver - $750 selected.
+2025-08-01 15:55:17,173 - INFO - Registered User - 'Yes' selected.
+2025-08-01 15:55:17,195 - INFO - Valid Promo Code Enter successfully.
+2025-08-01 15:55:17,285 - INFO - Click on Book Now button successfully.
+2025-08-01 15:55:17,305 - INFO - Success Message: Booking Successful!
+2025-08-01 15:55:17,327 - INFO - Tickets: 2 - Test Passed.
+2025-08-01 15:55:17,327 - ERROR - Total Price: Expected '$1500', Found '1500' - Test Failed.
+2025-08-01 15:55:17,328 - ERROR - Discount: Expected '$450.00', Found '450.00' - Test Failed.
+2025-08-01 15:55:17,328 - ERROR - Final Amount: Expected '$1050.00', Found '1050.00' - Test Failed.
+2025-08-01 15:55:17,328 - INFO - Script Complete.
+2025-08-01 15:55:17,328 - INFO - End Browser Session...

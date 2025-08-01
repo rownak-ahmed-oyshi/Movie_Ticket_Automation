@@ -1,0 +1,7 @@
+2025-08-01 11:50:41,637 - INFO - Starting Browser Session...
+2025-08-01 11:50:51,031 - INFO - Browser Launch Successfully.
+2025-08-01 11:50:54,384 - INFO - URL Open Successfully.
+2025-08-01 11:50:54,528 - INFO - Click on Book Now button successfully.
+2025-08-01 11:50:54,546 - INFO - Test Passed. Expected Error Message Display Properly.
+2025-08-01 11:50:54,547 - INFO - Script Complete.
+2025-08-01 11:50:54,547 - INFO - End Browser Session...

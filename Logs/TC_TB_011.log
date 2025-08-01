@@ -1,0 +1,12 @@
+2025-08-01 15:04:03,572 - INFO - Starting Browser Session...
+2025-08-01 15:04:12,569 - INFO - Browser Launch Successfully.
+2025-08-01 15:05:20,979 - INFO - Starting Browser Session...
+2025-08-01 15:05:28,897 - INFO - Browser Launch Successfully.
+2025-08-01 15:05:32,668 - INFO - URL Open Successfully.
+2025-08-01 15:05:32,916 - INFO - Ticket Number Enter successfully.
+2025-08-01 15:05:32,938 - INFO - Registered User - 'Yes' selected.
+2025-08-01 15:05:32,978 - INFO - Injected malicious Promo Code for XSS test.
+2025-08-01 15:05:33,063 - INFO - Click on Book Now button successfully.
+2025-08-01 15:05:35,068 - ERROR - Failed: XSS not blocked or error message not shown.
+2025-08-01 15:05:35,068 - INFO - Script Complete.
+2025-08-01 15:05:35,070 - INFO - End Browser Session...

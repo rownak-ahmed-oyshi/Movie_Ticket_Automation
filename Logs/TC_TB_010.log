@@ -1,0 +1,10 @@
+2025-08-01 13:17:23,995 - INFO - Starting Browser Session...
+2025-08-01 13:17:32,225 - INFO - Browser Launch Successfully.
+2025-08-01 13:17:32,724 - INFO - URL Open Successfully.
+2025-08-01 13:17:33,146 - INFO - Ticket Number Enter successfully.
+2025-08-01 13:17:33,232 - INFO - Registered User - 'Yes' selected.
+2025-08-01 13:17:33,268 - INFO - Valid Promo Code Enter successfully.
+2025-08-01 13:17:33,369 - INFO - Click on Book Now button successfully.
+2025-08-01 13:17:38,388 - INFO - TC-TB-10 Failed: No error message shown. Booking continued with default Ticket Class.
+2025-08-01 13:17:38,388 - INFO - Script Complete.
+2025-08-01 13:17:38,388 - INFO - End Browser Session...

@@ -1,0 +1,21 @@
+2025-08-01 12:12:40,247 - INFO - Starting Browser Session...
+2025-08-01 12:12:48,245 - INFO - Browser Launch Successfully.
+2025-08-01 12:12:48,782 - INFO - URL Open Successfully.
+2025-08-01 12:12:49,130 - INFO - Ticket Number Enter successfully.
+2025-08-01 12:12:49,389 - INFO - Ticket Class Gold - $1000 selected.
+2025-08-01 12:12:49,475 - INFO - Registered User - 'Yes' selected.
+2025-08-01 12:12:49,514 - INFO - Valid Promo Code Enter successfully.
+2025-08-01 12:12:49,611 - INFO - Click on Book Now button successfully.
+2025-08-01 12:12:49,628 - INFO - Test Passed. Expected Error Message Display Properly.
+2025-08-01 12:12:49,628 - INFO - Script Complete.
+2025-08-01 12:12:49,629 - INFO - End Browser Session...
+2025-08-01 13:16:08,586 - INFO - Starting Browser Session...
+2025-08-01 13:16:17,160 - INFO - Browser Launch Successfully.
+2025-08-01 13:16:18,056 - INFO - URL Open Successfully.
+2025-08-01 13:16:18,323 - INFO - Ticket Number Enter successfully.
+2025-08-01 13:16:18,352 - INFO - Registered User - 'Yes' selected.
+2025-08-01 13:16:18,388 - INFO - Valid Promo Code Enter successfully.
+2025-08-01 13:16:18,479 - INFO - Click on Book Now button successfully.
+2025-08-01 13:16:23,489 - INFO - TC-TB-10 Failed: No error message shown. Booking continued with default Ticket Class.
+2025-08-01 13:16:23,489 - INFO - Script Complete.
+2025-08-01 13:16:23,490 - INFO - End Browser Session...
