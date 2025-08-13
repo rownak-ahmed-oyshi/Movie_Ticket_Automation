@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm
+.idea/
+
+# Allure temp (ignore only the temp results you don't want)
+%allure_result_folder%/
+#allure-results/
