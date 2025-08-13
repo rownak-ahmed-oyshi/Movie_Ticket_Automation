@@ -1,0 +1,10 @@
+[
+  {
+    "scenario": "invalid_tickets",
+    "tickets": 11,
+    "class_value": "1500",
+    "user_value": "yes",
+    "promo_code": "PROMO2025",
+    "expected_error_message": "Please enter a number between 1 and 10."
+  }
+]

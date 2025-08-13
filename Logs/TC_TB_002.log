@@ -20,3 +20,14 @@
 2025-08-01 10:48:14,117 - INFO - Test Passed. Expected Final price match with Actual Final Price.
 2025-08-01 10:48:14,118 - INFO - Script Complete.
 2025-08-01 10:48:14,118 - INFO - End Browser Session...
+2025-08-07 18:49:44,389 - INFO - Starting Browser Session...
+2025-08-07 18:49:52,186 - INFO - Browser Launch Successfully.
+2025-08-07 18:49:52,929 - INFO - URL Open Successfully.
+2025-08-07 18:49:53,261 - INFO - Ticket Number Enter successfully.
+2025-08-07 18:49:53,659 - INFO - Ticket Class Platinum - $1500 selected.
+2025-08-07 18:49:53,679 - INFO - Registered User - 'Yes' selected.
+2025-08-07 18:49:53,702 - INFO - Valid Promo Code Enter successfully.
+2025-08-07 18:49:53,784 - INFO - Click on Book Now button successfully.
+2025-08-07 18:49:53,805 - INFO - Test Passed. Expected Error Message Display Properly.
+2025-08-07 18:49:53,805 - INFO - Script Complete.
+2025-08-07 18:49:58,375 - INFO - End Browser Session...

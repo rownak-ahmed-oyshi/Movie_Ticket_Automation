@@ -1,0 +1,15 @@
+[32mINFO    [0m root:conftest.py:17 Starting Browser Session...
+[32mINFO    [0m root:conftest.py:19 Browser Launch Successfully.
+[32mINFO    [0m root:conftest.py:25 URL Open Successfully.
+[32mINFO    [0m root:test_TC_TB_006.py:10 TC_TB_003 Started..
+[32mINFO    [0m root:test_TC_TB_006.py:19 Ticket Number Enter successfully.
+[32mINFO    [0m root:test_TC_TB_006.py:27 Ticket Class Platinum - $1500 selected.
+[32mINFO    [0m root:test_TC_TB_006.py:35 Registered User - 'Yes' selected.
+[32mINFO    [0m root:test_TC_TB_006.py:44 Valid Promo Code Enter successfully.
+[32mINFO    [0m root:test_TC_TB_006.py:53 Click on Book Now button successfully.
+[32mINFO    [0m root:test_TC_TB_006.py:64 Test Passed. Error Message for Ticket Number found.
+[32mINFO    [0m root:test_TC_TB_006.py:72 TC_TB_003 Completed..
+[32mINFO    [0m root:conftest.py:28 Script Complete.
+[32mINFO    [0m root:conftest.py:30 End browser Successfully
+[32mINFO    [0m root:conftest.py:31 ------------------------
+[32mINFO    [0m root:conftest.py:32 ------------------------

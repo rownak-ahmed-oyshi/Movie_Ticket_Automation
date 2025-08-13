@@ -1,0 +1,9 @@
+[
+  {
+    "tickets": 2,
+    "class_value": "750",
+    "user_value": "yes",
+    "promo_code":"PROMO2025",
+    "expected_price":  "Please enter a number between 1 and 10."
+  }
+]

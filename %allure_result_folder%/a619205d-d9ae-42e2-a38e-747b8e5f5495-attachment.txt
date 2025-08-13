@@ -1,0 +1,15 @@
+[32mINFO    [0m root:conftest.py:17 Starting Browser Session...
+[32mINFO    [0m root:conftest.py:19 Browser Launch Successfully.
+[32mINFO    [0m root:conftest.py:25 URL Open Successfully.
+[32mINFO    [0m root:test_TC_TB_001.py:12 TC_TB_001 Started..
+[32mINFO    [0m root:test_TC_TB_001.py:21 Ticket Number Enter successfully.
+[32mINFO    [0m root:test_TC_TB_001.py:30 Ticket Class Silver - $750 selected.
+[32mINFO    [0m root:test_TC_TB_001.py:40 Registered User - 'Yes' selected.
+[32mINFO    [0m root:test_TC_TB_001.py:49 Valid Promo Code Enter successfully.
+[32mINFO    [0m root:test_TC_TB_001.py:58 Click on Book Now button successfully.
+[32mINFO    [0m root:test_TC_TB_001.py:73 Test Failed. Expected Final Price does not match with Actual Final Price.
+[32mINFO    [0m root:test_TC_TB_001.py:77 TC_TB_001 Completed..
+[32mINFO    [0m root:conftest.py:28 Script Complete.
+[32mINFO    [0m root:conftest.py:30 End browser Successfully
+[32mINFO    [0m root:conftest.py:31 ------------------------
+[32mINFO    [0m root:conftest.py:32 ------------------------

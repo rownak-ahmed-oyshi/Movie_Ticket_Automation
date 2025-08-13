@@ -5,11 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c64752c-b746-4176-8dbc-6b65ce68289f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Movie_Ticket_Automation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/TC_TB_001.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/TC_TB_001.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/TC_TB_002.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/TC_TB_002.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/TC_TB_006.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/TC_TB_006.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TC_TB_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC_TB_001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TC_TB_002.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC_TB_002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TC_TB_003.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC_TB_003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TC_TB_004.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC_TB_004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TC_TB_005.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC_TB_005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TC_TB_006.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC_TB_006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TC_TB_007.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC_TB_007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TC_TB_008.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC_TB_008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TC_TB_009.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC_TB_009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TC_TB_010.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC_TB_010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TC_TB_011.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC_TB_011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TC_TB_012.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC_TB_012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TC_TB_013.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC_TB_013.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +39,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rownak-ahmed-oyshi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rownak-ahmed-oyshi/Movie_Ticket_Automation.git&quot;,
+    &quot;accountId&quot;: &quot;df9f26c3-11d8-4bcd-9e43-a990884b22ca&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -37,12 +65,38 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_TC_TB_001.py.executor": "Run",
+    "Python tests.Python tests in test_TC_TB_002.py.executor": "Run",
+    "Python tests.Python tests in test_TestCase_TB_01.py.executor": "Run",
+    "Python.TC_TB_001.executor": "Run",
+    "Python.TC_TB_002.executor": "Run",
+    "Python.TC_TB_003.executor": "Run",
+    "Python.TC_TB_004.executor": "Run",
+    "Python.TC_TB_005.executor": "Run",
+    "Python.TC_TB_006.executor": "Run",
+    "Python.TC_TB_007.executor": "Run",
+    "Python.TC_TB_008.executor": "Run",
+    "Python.TC_TB_009.executor": "Run",
+    "Python.TC_TB_01.executor": "Run",
+    "Python.TC_TB_010.executor": "Run",
+    "Python.TC_TB_011.executor": "Run",
+    "Python.TC_TB_012.executor": "Run",
+    "Python.TC_TB_013.executor": "Run",
+    "Python.booking_page.executor": "Run",
+    "Python.conftest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Test automation projects\Movie_Ticket_Automation\screenshots" />
+      <recent name="D:\Test automation projects\Movie_Ticket_Automation\TestCases" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
