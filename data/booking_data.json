@@ -1,0 +1,34 @@
+{
+  "valid_bookings": [
+    {
+      "tickets": 2,
+      "class_value": "750",
+      "user_value": "yes",
+      "promo_code": "PROMO2025",
+      "expected_price": "Final Amount: 1050.00"
+    },
+    {
+      "tickets": 10,
+      "class_value": "750",
+      "user_value": "yes",
+      "promo_code": "PROMO2025",
+      "expected_price": "Final Amount: 5250.00"
+    }
+  ],
+  "invalid_bookings": [
+      {
+      "tickets": 11,
+      "class_value": "1500",
+      "user_value": "yes",
+      "promo_code":"PROMO2025",
+      "error_message": "Please enter a number between 1 and 100."
+    },
+    {
+      "tickets": 0,
+      "class_value": "750",
+      "user_value": "yes",
+      "promo_code":"PROMO2025",
+      "error_message": "Please enter a number between 1 and 10."
+    }
+  ]
+}
