@@ -1,0 +1,80 @@
+{
+  "content": {
+    "suites": {
+      "0": {
+        "status": {
+          "total_pass": 1,
+          "total_skip": 0,
+          "total_xpass": 0,
+          "total_xfail": 0,
+          "total_rerun": 0,
+          "total_fail": 0,
+          "total_error": 0
+        },
+        "tests": {
+          "0": {
+            "status": "PASS",
+            "message": "",
+            "test_name": "test_tc_tb[test_case0]",
+            "rerun": "0"
+          }
+        },
+        "suite_name": "tests/test_TC_TB_01.py"
+      },
+      "1": {
+        "suite_name": "tests/test_TC_TB_02.py",
+        "tests": {
+          "0": {
+            "status": "PASS",
+            "message": "",
+            "test_name": "test_tc_tb[test_case0]",
+            "rerun": "0"
+          }
+        },
+        "status": {
+          "total_pass": 1,
+          "total_skip": 0,
+          "total_xpass": 0,
+          "total_xfail": 0,
+          "total_rerun": 0,
+          "total_fail": 0,
+          "total_error": 0
+        }
+      },
+      "2": {
+        "suite_name": "tests/test_TC_TB_03.py",
+        "tests": {
+          "0": {
+            "status": "FAIL",
+            "message": "       Failed: Test failed due to incorrect error message.\n",
+            "test_name": "test_tc_tb[test_case0]",
+            "rerun": "0"
+          }
+        },
+        "status": {
+          "total_pass": 0,
+          "total_skip": 0,
+          "total_xpass": 0,
+          "total_xfail": 0,
+          "total_rerun": 0,
+          "total_fail": 1,
+          "total_error": 0
+        }
+      }
+    }
+  },
+  "date": "August 14, 2025",
+  "start_time": 1755178363.9982433,
+  "total_suite": 3,
+  "status": "FAIL",
+  "status_list": {
+    "pass": "2",
+    "fail": "1",
+    "skip": "0",
+    "error": "0",
+    "xpass": "0",
+    "xfail": "0",
+    "rerun": "0"
+  },
+  "total_tests": "3"
+}
