@@ -1,0 +1,17 @@
+
+================ BUG REPORT ================
+Test Case: TC_TB_003
+Description: An invalid booking scenario failed as the expected error message did not match the actual message.
+--------------------------------------------
+Test Data:
+  Tickets: 11
+  Class Value: 1500
+  User Value: yes
+  Promo Code: PROMO2025
+--------------------------------------------
+Validation Failure:
+  Expected Message: Please enter a number between 1 and 100.
+  Actual Message:   Please enter a number between 1 and 10.
+--------------------------------------------
+Screenshot: D:\Test automation projects\Movie_Ticket_Automation\logs\bug_reports\TC_TB_003_failure_20250817_120150.png
+============================================
